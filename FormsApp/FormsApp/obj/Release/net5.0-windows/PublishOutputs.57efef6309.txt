@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\deploy\AliaksandrForms.exe
+C:\Users\Admin\Desktop\deploy\AliaksandrForms.dll
+C:\Users\Admin\Desktop\deploy\AliaksandrForms.deps.json
+C:\Users\Admin\Desktop\deploy\AliaksandrForms.runtimeconfig.json
+C:\Users\Admin\Desktop\deploy\AliaksandrForms.pdb
